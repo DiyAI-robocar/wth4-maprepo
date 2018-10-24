@@ -5,7 +5,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "LineString",
-                "road_coordinates": [
+                "coordinates": [
                     [
                         590.6849480968855,
                         -513.3138466952083
